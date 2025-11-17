@@ -1,24 +1,24 @@
-🌟 Hi, I'm Punith Raju Janardhana!
+🌟 Hi, I'm Punith Raju Janardhana
 🚀 AI Research Developer • Full-Stack Engineer • Cloud & ML Enthusiast
 
-I’m a Computer Science student at Arizona State University (GPA 3.83), originally from Bangalore 🇮🇳 and currently building advanced AI systems, cloud-native applications, and real-world full-stack software.
+I'm a Computer Science student at Arizona State University (GPA 3.83) — originally from Bangalore 🇮🇳 — building AI-driven learning systems, full-stack apps, and scalable cloud infrastructure.
 
-I'm passionate about AI-driven learning systems, scalable backend architecture, cloud engineering, and solving problems that impact people at scale.
+I love working on projects that blend AI, backend engineering, cloud computing, and real-world impact.
 
 ⚡ Tech Stack
 🧠 Languages
 
 Python • Java • JavaScript • TypeScript • C • C# • Swift • Bash
 
-🖥️ Frameworks / Libraries
+🖥 Frameworks / Libraries
 
 FastAPI • Flask • Spring Boot • React • Node.js • Next.js • Jinja2 • Selenium
 
 ☁️ Cloud & DevOps
 
-AWS (EC2, RDS, S3, Lambda) • Docker • Kubernetes • GitHub Actions
+AWS (EC2, S3, Lambda, RDS) • Docker • Kubernetes • GitHub Actions
 
-🛢️ Databases
+🛢 Databases
 
 PostgreSQL • MySQL • MongoDB • SQLite • Qdrant
 
@@ -27,67 +27,55 @@ PostgreSQL • MySQL • MongoDB • SQLite • Qdrant
 OpenAI • Gemini • DeepLearning4j • scikit-learn • Meta Graph API
 Vector Retrieval • Embeddings • NLP Pipelines
 
-
 🚀 Featured Projects
 🧠 RASQAL — AI-Based Question Generation System (ASU)
 
-Python • FastAPI • Docker • Qdrant • AWS • Kubernetes • Canvas LMS Integration
+Python • FastAPI • Qdrant • Docker • Kubernetes • AWS
 
-Architected ASU’s AI-powered assessment engine combining LLMs + NLP + vector retrieval.
+Developed ASU’s AI-powered assessment engine combining LLMs + vector search.
 
-Generates schema-aligned quiz questions with 90%+ relevance.
+Generates schema-aligned MCQs with 90%+ relevance.
 
-Deployed microservices using Docker + Kubernetes on AWS.
+Reduced instructor workload by 50% in Spring 2025 pilot.
 
-Reduced instructor workload by 50% during Spring 2025 pilot.
+Deployed scalable microservices on AWS using Kubernetes.
 
-Powers adaptive learning at scale.
-
-
-🏦 Rupiva — Digital Loan Matchmaking Platform (India)
+🏦 Rupiva — Digital Loan Matchmaking Platform
 
 React • Node.js • Drizzle • PostgreSQL
 
-“MakeMyTrip for Loans”: matches users to banks/NBFCs based on profile.
+“MakeMyTrip for Loans” — connects users with banks/NBFCs based on profile.
 
-Built backend + frontend architecture for loan automation workflows.
-
+Engineered full backend + frontend with automated loan workflows.
 
 📊 Facebook Engagement Tracker
 
-Flask • SQLAlchemy • AWS EC2/RDS • Chart.js
-
-Cloud-hosted analytics dashboard for FB pages using Meta Graph API.
-
+Flask • Meta Graph API • AWS EC2/RDS
+Cloud-hosted analytics dashboard for real-time engagement insights.
 
 📦 Amazon Price Comparator
 
 Java • Selenium • Jsoup • JFreeChart
-
-Automated Amazon scraping with 90%+ reliable trend detection.
+Automated Amazon scraper with visual trend analytics.
 
 🔐 IoT Security System
 
-ESP32/STM32 • MQTT • AWS IoT • Python
-
-Secure, microcontroller-driven motion detection + live alerting system.
+ESP32/STM32 • AWS IoT • MQTT
+Microcontroller-based motion detection + instant cloud alerts.
 
 🖼️ Image Recognition System
 
-AWS S3 • Lambda • DynamoDB • Docker
-
-Automated frame extraction + serverless image recognition.
+AWS Lambda • S3 • DynamoDB • Docker
+Serverless image-processing pipeline with auto-scaling.
 
 🏆 Achievements
 
 ⭐ AI Research Developer at ASU
 
-⭐ Built 10+ production-grade projects
+⭐ Built 10+ production-ready projects
 
-⭐ 3.83 GPA in CS at ASU
+⭐ Expertise in Cloud, LLMs, RAG, Full Stack Engineering
 
-⭐ Cloud + ML + Full Stack Specialist
+⭐ Founder of Rupiva and PaySol
 
-⭐ Startup builder (Rupiva, PaySol)
-
-⭐ Strong experience with LLMs, RAG, embeddings
+⭐ Strong backend + AI + system design skills
