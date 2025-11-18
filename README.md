@@ -132,9 +132,11 @@
   <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:punithjanardhana@gmail.com">
+
+  <a href="mailto:punithjanardhana@gmail.com?subject=Hello%20Punith!&body=I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect.">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://github.com/PunithRajuJanardhana">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
