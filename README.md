@@ -1,203 +1,126 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Punith%20Raju%20Janardhana&fontSize=45&fontColor=ffffff" />
-</p>
-
-<h2 align="center">🚀 AI Research Developer | Full-Stack Engineer | Cloud & ML Enthusiast</h2>
+<h1 align="center">🌟 Hi, I'm <strong>Punith Raju Janardhana</strong></h1>
 
 <p align="center">
-  <strong>Arizona State University • Computer Science • GPA 3.83</strong>  
-  <br>
-  Bangalore 🇮🇳 → Arizona 🇺🇸
+  🚀 <b>AI Research Developer</b> • <b>Full-Stack Engineer</b> • <b>Cloud & ML Enthusiast</b><br/>
+  Tempe, Arizona • Originally from Bangalore 🇮🇳
 </p>
-
----
-
-## 🌟 Hi, I'm Punith!
-
-I build **AI-driven learning systems**, **scalable cloud apps**, and **production-grade full-stack platforms**.  
-I'm currently working as an **AI Research Developer at ASU**, building the next generation of adaptive learning systems.
-
-I love combining **LLMs**, **vector retrieval**, **backend engineering**, and **distributed cloud systems** to create real-world impact.
-
----
-
-## ⚡ Tech Stack Overview
-
-### 🧠 Languages  
-Python · Java · JavaScript · TypeScript · C · C# · Swift · Bash
-
-### 🖥️ Frameworks / Libraries  
-FastAPI · Flask · Spring Boot · React · Node.js · Next.js · Jinja2 · Selenium
-
-### ☁️ Cloud & DevOps  
-AWS (EC2, S3, RDS, Lambda) · Docker · Kubernetes · GitHub Actions
-
-### 🛢️ Databases  
-PostgreSQL · MySQL · MongoDB · SQLite · Qdrant
-
-### 🤖 AI & ML  
-OpenAI · Gemini · DeepLearning4j · scikit-learn · NLP Pipelines · Embeddings · Vector Search · Meta Graph API
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **RASQAL — AI-Based Question Generation System (ASU)**
-**Python · FastAPI · Docker · Qdrant · Kubernetes · AWS**
-
-- Built ASU's production-grade AI system for schema-based question generation  
-- Combined LLMs + embeddings + vector retrieval  
-- Produced quiz questions with **90%+ relevance**  
-- Reduced instructor workload by **50%** during Spring 2025  
-- Deployed microservices on AWS using Kubernetes
-
----
-
-### 🏦 **Rupiva — Digital Loan Matchmaking Platform**
-**React · Node.js · Drizzle · PostgreSQL**
-
-- “MakeMyTrip for Loans” — intelligent loan matching  
-- Designed complete backend + frontend architecture  
-- Automated verification and loan eligibility workflows
-
----
-
-### 📊 **Facebook Engagement Tracker**  
-**Flask · Meta Graph API · AWS EC2/RDS**
-
-- Real-time analytics dashboard for Facebook pages  
-- Cloud-hosted with auto-refreshing insights
-
----
-
-### 📦 **Amazon Price Comparator**  
-**Java · Selenium · Jsoup · JFreeChart**
-
-- Automated Amazon scraper with historical trend graphs  
-- 90%+ accurate price insights
-
----
-
-### 🔐 **IoT Security System**
-**ESP32/STM32 · AWS IoT · MQTT**
-
-- Microcontroller-based motion detection  
-- Real-time alerting pipeline via AWS
-
----
-
-### 🖼️ **Serverless Image Recognition System**
-**AWS Lambda · S3 · DynamoDB · Docker**
-
-- Event-driven image recognition pipeline  
-- Auto-scaling and fully serverless
-
----
-
-## 🏆 Achievements
-
-⭐ AI Research Developer @ ASU  
-⭐ Built **10+ production-grade** software projects  
-⭐ Expertise in **Cloud, LLMs, RAG, System Design, Full Stack**  
-⭐ Founder of **Rupiva** and **PaySol**  
-⭐ Strong problem-solving, architecture, and backend engineering skills  
-
----
-
-## 🛠 Languages & Tools
-
-<p align="left">
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qdrant.svg" width="45" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="45" />
-
-  <!-- AI / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlegemini.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="45" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-
-</p>
-
-## ⚡ Neon Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle&logoColor=FF00FF" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00FFAA" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=00AFFF" />
-  <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google&logoColor=4285F4" />
+  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/PunithRajuJanardhana"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="mailto:punithjanardhana@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
 </p>
-
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Tech Universe
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Cloud+%2B+Backend+Specialist;LLMs+%7C+RAG+%7C+Microservices;Always+Building+Cool+Stuff+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs,swift" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express,nodejs,react,nextjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+---
+
+# 🧠 About Me
+
+🎓 CS @ **Arizona State University** — GPA **3.83/4.0** :contentReference[oaicite:1]{index=1}  
+🔬 **AI Research Developer** at ASU's Adaptive Learning Lab  
+💡 Building AI-powered learning systems, cloud-native services & full-stack products  
+☁️ Passionate about LLMs, vector retrieval, backend systems & scalable cloud infra  
+🔥 Love solving real-world problems with engineering + AI  
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 **RASQAL — AI-Based Question Generation System (ASU)**
+**Python • FastAPI • Qdrant • Docker • Kubernetes • AWS**
+
+- Architected ASU’s AI-powered assessment engine using **LLMs + vector retrieval** :contentReference[oaicite:2]{index=2}  
+- Generates schema-aligned quiz questions with **90%+ semantic relevance**  
+- Deployed containerized microservices on AWS using Kubernetes  
+- Reduced instructor workload by **50%** during pilot semester  
+- Integrated with Jupyter & Canvas LMS APIs  
+
+---
+
+## 🏦 **Rupiva — Digital Loan Matchmaking Platform**
+**React • Node.js • Drizzle • PostgreSQL**
+
+- “MakeMyTrip for Loans” — matches users to banks/NBFCs based on profile  
+- Built complete backend + frontend architecture  
+- Automates loan document flow and eligibility logic  
+
+---
+
+## 📊 **Facebook Engagement Tracker**  
+**Flask • SQLAlchemy • AWS EC2/RDS • Meta Graph API**
+
+- Cloud-hosted dashboard visualizing Facebook page analytics in real time  
+- Integrated Meta Graph API + Chart.js for dynamic trend graphs  
+
+---
+
+## 📦 **Amazon Price Comparator**  
+**Java • Jsoup • Selenium • JFreeChart**
+
+- Automated Amazon product scraping  
+- Generated clean price-trend visualizations  
+- 90%+ scraper reliability using test automation (JUnit)  
+
+---
+
+## 🔐 **IoT Security System**  
+**ESP32/STM32 • AWS IoT • MQTT**
+
+- Built microcontroller-driven home security system  
+- Real-time alerts using MQTT + AWS IoT cloud link  
+- Implemented secure TLS communication  
+
+---
+
+## 🖼️ **Image Recognition Pipeline**
+**AWS Lambda • S3 • DynamoDB • Docker**
+
+- Serverless pipeline for frame extraction + image recognition  
+- Auto-scaling inference using Lambda triggers  
+
+---
+
+# 🏆 Achievements
+
+🌟 AI Research Developer (ASU) — Led RASQAL pilot across CS courses  
+🌟 Built 10+ production-grade engineering & AI projects  
+🌟 Strong Backend + ML + Cloud + System Design foundation  
+🌟 Founder of **Rupiva** and **PaySol**  
+🌟 Experience with LLMs, Embeddings, NLP, RAG systems  
+
+---
+
+# 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:punithjanardhana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/PunithRajuJanardhana">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PunithRajuJanardhana&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunithRajuJanardhana&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+  ⭐️ <i>“Always building. Always learning. Always improving.”</i> ⭐️
 </p>
