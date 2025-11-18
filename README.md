@@ -12,20 +12,41 @@
 </p>
 
 ---
-
 ## 🚀 Tech Universe
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Cloud+%2B+Backend+Specialist;LLMs+%7C+RAG+%7C+Microservices;Always+Building+Cool+Stuff+🚀" />
 </p>
 
+<!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs,swift" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express,nodejs,react,nextjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,bash,swift" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/objective-c.png" width="45" />
 </p>
+
+<!-- Frameworks & Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,react,nodejs,docker,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja-original.svg" width="45"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/jira.png" width="45"/>
+</p>
+
+<!-- Cloud & Databases -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb,sqlite" />
+</p>
+
+<!-- Other Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,selenium" />
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-solana-a-web-scale-blockchain-that-s-calibrated-internet-speed-logo-bold-tal-revivo.png" width="45" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/api.png" width="45" title="REST APIs" />
+  <img src="https://img.icons8.com/glyph-neue/64/FFFFFF/combo-chart.png" width="45" title="Chart.js" />
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/FFFFFF/external-mqtt-internet-of-things-flatart-icons-outline-flatarticons.png" width="45" title="MQTT"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/salesforce.png" width="45" title="Salesforce CRM" />
+  <img src="https://img.icons8.com/windows/50/FFFFFF/facebook.png" width="45" title="Meta Graph API" />
+</p>
+
 
 ---
 
