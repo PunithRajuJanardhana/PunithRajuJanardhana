@@ -97,7 +97,7 @@ OpenAI · Gemini · DeepLearning4j · scikit-learn · NLP Pipelines · Embedding
 
 ## 🏆 Achievements
 
-⭐ AI Research Developer at ASU  
+⭐ AI Research Developer @ ASU  
 ⭐ Built **10+ production-grade** software projects  
 ⭐ Expertise in **Cloud, LLMs, RAG, System Design, Full Stack**  
 ⭐ Founder of **Rupiva** and **PaySol**  
