@@ -158,19 +158,22 @@ OpenAI · Gemini · DeepLearning4j · scikit-learn · NLP Pipelines · Embedding
 
 </p>
 
-## 🚀 Tech Universe
+## ⚡ Neon Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Cloud+%2B+Backend+Specialist;LLMs+%7C+RAG+%7C+Microservices;Always+Building+Cool+Stuff+🚀" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00FFAA" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=00AFFF" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google&logoColor=4285F4" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs,swift" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express,nodejs,react,nextjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
 
 ---
 
