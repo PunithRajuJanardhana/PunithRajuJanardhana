@@ -158,6 +158,19 @@ OpenAI · Gemini · DeepLearning4j · scikit-learn · NLP Pipelines · Embedding
 
 </p>
 
+## 🚀 Tech Universe
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Cloud+%2B+Backend+Specialist;LLMs+%7C+RAG+%7C+Microservices;Always+Building+Cool+Stuff+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs,swift" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express,nodejs,react,nextjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
 
 ---
 
