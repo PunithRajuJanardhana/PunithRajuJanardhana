@@ -1,86 +1,111 @@
-🌟 Hi, I'm Punith Raju Janardhana
-🚀 AI Research Developer • Full-Stack Engineer • Cloud & ML Enthusiast
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Punith%20Raju%20Janardhana&fontSize=45&fontColor=ffffff" />
+</p>
 
-I'm a Computer Science student at Arizona State University (GPA 3.83) — originally from Bangalore 🇮🇳 — building AI-driven learning systems, full-stack apps, and scalable cloud infrastructure.
+<h2 align="center">🚀 AI Research Developer | Full-Stack Engineer | Cloud & ML Enthusiast</h2>
 
-I love working on projects that blend AI, backend engineering, cloud computing, and real-world impact.
+<p align="center">
+  <strong>Arizona State University • Computer Science • GPA 3.83</strong>  
+  <br>
+  Bangalore 🇮🇳 → Arizona 🇺🇸
+</p>
 
-⚡ Tech Stack
-🧠 Languages
+---
 
-Python • Java • JavaScript • TypeScript • C • C# • Swift • Bash
+## 🌟 Hi, I'm Punith!
 
-🖥 Frameworks / Libraries
+I build **AI-driven learning systems**, **scalable cloud apps**, and **production-grade full-stack platforms**.  
+I'm currently working as an **AI Research Developer at ASU**, building the next generation of adaptive learning systems.
 
-FastAPI • Flask • Spring Boot • React • Node.js • Next.js • Jinja2 • Selenium
+I love combining **LLMs**, **vector retrieval**, **backend engineering**, and **distributed cloud systems** to create real-world impact.
 
-☁️ Cloud & DevOps
+---
 
-AWS (EC2, S3, Lambda, RDS) • Docker • Kubernetes • GitHub Actions
+## ⚡ Tech Stack Overview
 
-🛢 Databases
+### 🧠 Languages  
+Python · Java · JavaScript · TypeScript · C · C# · Swift · Bash
 
-PostgreSQL • MySQL • MongoDB • SQLite • Qdrant
+### 🖥️ Frameworks / Libraries  
+FastAPI · Flask · Spring Boot · React · Node.js · Next.js · Jinja2 · Selenium
 
-🤖 AI / ML
+### ☁️ Cloud & DevOps  
+AWS (EC2, S3, RDS, Lambda) · Docker · Kubernetes · GitHub Actions
 
-OpenAI • Gemini • DeepLearning4j • scikit-learn • Meta Graph API
-Vector Retrieval • Embeddings • NLP Pipelines
+### 🛢️ Databases  
+PostgreSQL · MySQL · MongoDB · SQLite · Qdrant
 
-🚀 Featured Projects
-🧠 RASQAL — AI-Based Question Generation System (ASU)
+### 🤖 AI & ML  
+OpenAI · Gemini · DeepLearning4j · scikit-learn · NLP Pipelines · Embeddings · Vector Search · Meta Graph API
 
-Python • FastAPI • Qdrant • Docker • Kubernetes • AWS
+---
 
-Developed ASU’s AI-powered assessment engine combining LLMs + vector search.
+## 🚀 Featured Projects
 
-Generates schema-aligned MCQs with 90%+ relevance.
+### 🧠 **RASQAL — AI-Based Question Generation System (ASU)**
+**Python · FastAPI · Docker · Qdrant · Kubernetes · AWS**
 
-Reduced instructor workload by 50% in Spring 2025 pilot.
+- Built ASU's production-grade AI system for schema-based question generation  
+- Combined LLMs + embeddings + vector retrieval  
+- Produced quiz questions with **90%+ relevance**  
+- Reduced instructor workload by **50%** during Spring 2025  
+- Deployed microservices on AWS using Kubernetes
 
-Deployed scalable microservices on AWS using Kubernetes.
+---
 
-🏦 Rupiva — Digital Loan Matchmaking Platform
+### 🏦 **Rupiva — Digital Loan Matchmaking Platform**
+**React · Node.js · Drizzle · PostgreSQL**
 
-React • Node.js • Drizzle • PostgreSQL
+- “MakeMyTrip for Loans” — intelligent loan matching  
+- Designed complete backend + frontend architecture  
+- Automated verification and loan eligibility workflows
 
-“MakeMyTrip for Loans” — connects users with banks/NBFCs based on profile.
+---
 
-Engineered full backend + frontend with automated loan workflows.
+### 📊 **Facebook Engagement Tracker**  
+**Flask · Meta Graph API · AWS EC2/RDS**
 
-📊 Facebook Engagement Tracker
+- Real-time analytics dashboard for Facebook pages  
+- Cloud-hosted with auto-refreshing insights
 
-Flask • Meta Graph API • AWS EC2/RDS
-Cloud-hosted analytics dashboard for real-time engagement insights.
+---
 
-📦 Amazon Price Comparator
+### 📦 **Amazon Price Comparator**  
+**Java · Selenium · Jsoup · JFreeChart**
 
-Java • Selenium • Jsoup • JFreeChart
-Automated Amazon scraper with visual trend analytics.
+- Automated Amazon scraper with historical trend graphs  
+- 90%+ accurate price insights
 
-🔐 IoT Security System
+---
 
-ESP32/STM32 • AWS IoT • MQTT
-Microcontroller-based motion detection + instant cloud alerts.
+### 🔐 **IoT Security System**
+**ESP32/STM32 · AWS IoT · MQTT**
 
-🖼️ Image Recognition System
+- Microcontroller-based motion detection  
+- Real-time alerting pipeline via AWS
 
-AWS Lambda • S3 • DynamoDB • Docker
-Serverless image-processing pipeline with auto-scaling.
+---
 
-🏆 Achievements
+### 🖼️ **Serverless Image Recognition System**
+**AWS Lambda · S3 · DynamoDB · Docker**
 
-⭐ AI Research Developer at ASU
+- Event-driven image recognition pipeline  
+- Auto-scaling and fully serverless
 
-⭐ Built 10+ production-ready projects
+---
 
-⭐ Expertise in Cloud, LLMs, RAG, Full Stack Engineering
+## 🏆 Achievements
 
-⭐ Founder of Rupiva and PaySol
+⭐ AI Research Developer at ASU  
+⭐ Built **10+ production-grade** software projects  
+⭐ Expertise in **Cloud, LLMs, RAG, System Design, Full Stack**  
+⭐ Founder of **Rupiva** and **PaySol**  
+⭐ Strong problem-solving, architecture, and backend engineering skills  
 
-⭐ Strong backend + AI + system design skills
+---
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" />
@@ -111,4 +136,31 @@ Serverless image-processing pipeline with auto-scaling.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://github.com/PunithRajuJanardhana">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PunithRajuJanardhana&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunithRajuJanardhana&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
 </p>
