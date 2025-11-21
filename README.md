@@ -52,7 +52,7 @@
 
 # 🧠 About Me
 
-🎓 CS @ **Arizona State University** — GPA **3.83/4.0** :contentReference[oaicite:1]{index=1}  
+🎓 CS @ **Arizona State University** — GPA **3.83/4.0**   
 🔬 **AI Research Developer** at ASU's Adaptive Learning Lab  
 💡 Building AI-powered learning systems, cloud-native services & full-stack products  
 ☁️ Passionate about LLMs, vector retrieval, backend systems & scalable cloud infra  
