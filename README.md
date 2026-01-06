@@ -74,15 +74,6 @@
 
 ---
 
-## 🏦 **Rupiva — Digital Loan Matchmaking Platform**
-**React • Node.js • Drizzle • PostgreSQL**
-
-- “MakeMyTrip for Loans” — matches users to banks/NBFCs based on profile  
-- Built complete backend + frontend architecture  
-- Automates loan document flow and eligibility logic  
-
----
-
 ## 📊 **Facebook Engagement Tracker**  
 **Flask • SQLAlchemy • AWS EC2/RDS • Meta Graph API**
 
