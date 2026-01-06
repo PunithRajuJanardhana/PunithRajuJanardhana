@@ -55,7 +55,8 @@
 🎓 CS @ **Arizona State University** — GPA **3.83/4.0**   
 🔬 **AI Research Developer** at ASU's Adaptive Learning Lab  
 💡 Building AI-powered learning systems, cloud-native services & full-stack products  
-☁️ Passionate about LLMs, vector retrieval, backend systems & scalable cloud infra  
+☁️ Passionate about LLMs, vector retrieval, backend systems & scalable cloud infra 
+🚀 Currently building **Rupione** — https://rupione.com/ 
 🔥 Love solving real-world problems with engineering + AI  
 
 ---
