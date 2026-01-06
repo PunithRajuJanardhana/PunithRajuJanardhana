@@ -66,11 +66,11 @@
 ## 🧠 **RASQAL — AI-Based Question Generation System (ASU)**
 **Python • FastAPI • Qdrant • Docker • Kubernetes • AWS**
 
-- Architected ASU’s AI-powered assessment engine using **LLMs + vector retrieval** :contentReference[oaicite:2]{index=2}  
+- Architected ASU’s AI-powered assessment engine using **LLMs + vector retrieval**  
 - Generates schema-aligned quiz questions with **90%+ semantic relevance**  
 - Deployed containerized microservices on AWS using Kubernetes  
 - Reduced instructor workload by **50%** during pilot semester  
-- Integrated with Jupyter & Canvas LMS APIs  
+- Integrated with Jupyter & Canvas LMS APIs    
 
 ---
 
