@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://github.com/PunithRajuJanardhana"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
   <a href="mailto:punithjanardhana@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45"/></a>
+  <a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-portfolio-resume-flatart-icons-outline-flatarticons.png" width="45"/></a>
 </p>
 
 ---
