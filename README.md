@@ -23,11 +23,11 @@
 ☕ Java, Python, TypeScript, React — I like clean backends and things that don't fall over  
 🤖 LLMs, RAG pipelines, vector search — teaching machines to be useful  
 ☁️ AWS, Docker, Kubernetes — I enjoy making things scale (and watching them not crash)  
-🎉 Right now, most of my energy goes into **Yen Maga**
+🎉 Right now, most of my energy goes into **[Yen Maga](https://yenmaga.com/)**
 
 ## 🎫 Building Yen Maga
 
-I'm co-founding **Yen Maga**, a social events and ticketing platform — building it end to end with my sister Vatsala. It's the project that's currently eating most of my free time, and I love every bit of it: shipping features, talking to early users, figuring out what actually makes an event platform fun to use instead of just functional.
+I'm co-founding **[Yen Maga](https://yenmaga.com/)**, a social events and ticketing platform — building it end to end with my sister Vatsala. It's the project that's currently eating most of my free time, and I love every bit of it: shipping features, talking to early users, figuring out what actually makes an event platform fun to use instead of just functional.
 
 ## 🛠️ Tools I reach for
 
@@ -40,7 +40,7 @@ I'm co-founding **Yen Maga**, a social events and ticketing platform — buildin
 
 ## 🌱 Outside of code
 
-🎶 Kannada content creation • 🏆 Kalyani Bengaluru Blasters kabaddi fan • 📈 dabbling in the markets • 🕉️ into Vedic astrology & ancient Indian history
+🌍 Bengaluru boy on a mission to see the world — 2/196 countries down ✈️ • ⚽ Messi 🏏 Rohit Sharma 🏎️ Lewis Hamilton • Valentino Rossi 🏀 Devin Booker
 
 ---
 
