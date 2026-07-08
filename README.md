@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Punith</h1>
+<h1 align="center">👋 Hey, I'm Punith Raju Janardhana</h1>
 
 <p align="center">
   🚀 Builder • 🤖 AI Tinkerer • ☕ Backend Nerd<br/>
