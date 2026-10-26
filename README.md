@@ -5,7 +5,6 @@
 <p align="center">
   <a href="http://alksea.com/"><img src="https://img.shields.io/badge/CURRENT_FOCUS-ALKSEA-BAFF39?style=for-the-badge&amp;labelColor=151B2B&amp;logoColor=090B13" alt="Current focus: Alksea" /></a>
   <a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-53E5FF?style=for-the-badge&amp;labelColor=151B2B" alt="Explore my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-C9A6FF?style=for-the-badge&amp;labelColor=151B2B" alt="Connect on LinkedIn" /></a>
 </p>
 
 # Reliable systems. Useful products. Relentless curiosity.
@@ -107,5 +106,5 @@ Have an interesting problem, a product idea, or something you’re excited to bu
 </p>
 
 <p align="center">
-  <strong><a href="https://punithrajujanardhana.github.io/Portfolio/">PORTFOLIO</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/">LINKEDIN</a> &nbsp; / &nbsp; <a href="http://alksea.com/">ALKSEA</a> &nbsp; / &nbsp; <a href="https://yenmaga.com/">YEN MAGA</a> &nbsp; / &nbsp; <a href="mailto:punithjanardhana@gmail.com">EMAIL</a></strong>
+  <strong><a href="https://punithrajujanardhana.github.io/Portfolio/">PORTFOLIO</a> &nbsp; / &nbsp; <a href="http://alksea.com/">ALKSEA</a> &nbsp; / &nbsp; <a href="https://yenmaga.com/">YEN MAGA</a> &nbsp; / &nbsp; <a href="mailto:punithjanardhana@gmail.com">EMAIL</a></strong>
 </p>
