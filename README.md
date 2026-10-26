@@ -8,7 +8,9 @@ Seattle, Washington · Bengaluru, India
 
 I build reliable backend systems and practical AI applications, with an interest in the product decisions that make software useful. My work connects engineering with an understanding of users: the problems they face, why they choose a product, and what brings them back.
 
-## Current work
+---
+
+## Projects & ventures
 
 ### [Alksea](http://alksea.com/)
 
@@ -17,8 +19,6 @@ I build reliable backend systems and practical AI applications, with an interest
 Building backend workflows focused on security, auditability, and operational reliability. Areas of focus include permissions, audit trails, recovery workflows, and failure handling.
 
 [Website](http://alksea.com/) · [Source code](https://github.com/PunithRajuJanardhana/Alksea)
-
-## Other ventures
 
 ### [Rupione](https://rupione.com/)
 
@@ -32,7 +32,11 @@ A lending platform designed around a single application, competing lender offers
 
 Co-founding an events platform with my sister, **Vatsala**, to help people discover events worth attending. The work spans engineering, product design, and learning from early users.
 
-## Technical toolkit
+---
+
+## Engineering
+
+### Technical toolkit
 
 | Area | Technologies |
 | :--- | :--- |
@@ -42,22 +46,28 @@ Co-founding an events platform with my sister, **Vatsala**, to help people disco
 | Databases | PostgreSQL, MongoDB |
 | Infrastructure & tooling | AWS, Docker, Kubernetes, Git |
 
-## Current interests
+### Currently exploring
 
 - **Applied AI:** LLM applications, retrieval-augmented generation, and vector search.
 - **Backend engineering:** API design, system architecture, and reliability.
 - **Computer science:** Data structures, algorithms, and problem-solving practice.
 - **Product development:** Consumer behavior, business models, and identifying problems worth solving.
 
-## Approach
+### How I work
 
 I start with the problem, build something useful, and refine it through feedback. I value clear code, thoughtful interfaces, and systems people can depend on. I enjoy working across engineering and product, testing assumptions, and strengthening the fundamentals through hands-on work.
 
+### Learning through projects
+
 My [portfolio](https://punithrajujanardhana.github.io/Portfolio/) brings together projects, experiments, and lessons from building software end to end. Three Y Combinator rejections. Still curious. Still building.
+
+---
 
 ## Beyond engineering
 
 Bengaluru will always be home. Outside work, I enjoy travel and following football, cricket, Formula 1, MotoGP, and basketball. My favorites include Messi, Rohit Sharma, Lewis Hamilton, Valentino Rossi, and Devin Booker.
+
+---
 
 ## Get in touch
 
