@@ -1,104 +1,66 @@
-<p align="center">
-  <img src="assets/mission-control.svg" width="100%" alt="Hey, I'm Punith Raju Janardhana — software engineer and product builder. Bengaluru roots. Seattle chapters. Building what's next." />
-</p>
+# Punith Raju Janardhana
 
-<p align="center">
-  <a href="http://alksea.com/"><img src="https://img.shields.io/badge/CURRENT_FOCUS-ALKSEA-BAFF39?style=for-the-badge&amp;labelColor=151B2B&amp;logoColor=090B13" alt="Current focus: Alksea" /></a>
-  <a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-53E5FF?style=for-the-badge&amp;labelColor=151B2B" alt="Explore my portfolio" /></a>
-</p>
+**Software Engineer · Product Builder**
 
-# Reliable systems. Useful products. Relentless curiosity.
+Seattle, Washington · Bengaluru, India
 
-I’m a **software engineer and product builder** drawn to reliable backends, useful AI, and products that make someone’s day a little easier.
+[Portfolio](https://punithrajujanardhana.github.io/Portfolio/) · [Email](mailto:punithjanardhana@gmail.com)
 
-My curiosity stretches beyond the code: **Who needs this? Why would they use it? What would make them come back?** I enjoy connecting those answers to the systems that bring a product to life.
+I build reliable backend systems and practical AI applications, with an interest in the product decisions that make software useful. My work connects engineering with an understanding of users: the problems they face, why they choose a product, and what brings them back.
 
-## 🚀 What I’m building
+## Current work
 
-<a href="http://alksea.com/"><img src="assets/alksea.svg" width="100%" alt="Alksea — current focus. Wallet compliance infrastructure centered on backend security, auditability, permissions, recovery workflows, and operational reliability." /></a>
+### [Alksea](http://alksea.com/)
 
-### 🔐 Alksea · Current focus
+**Wallet compliance infrastructure · Active focus**
 
-Building **wallet compliance infrastructure** with a focus on backend security, auditability, and operational reliability. Going deeper into the engineering behind dependable systems — from permissions and recovery workflows to handling failures.
+Building backend workflows focused on security, auditability, and operational reliability. Areas of focus include permissions, audit trails, recovery workflows, and failure handling.
 
-**[Explore Alksea ↗](http://alksea.com/)** &nbsp; · &nbsp; [Explore the code](https://github.com/PunithRajuJanardhana/Alksea)
+[Website](http://alksea.com/) · [Source code](https://github.com/PunithRajuJanardhana/Alksea)
 
-## 💡 Other ventures · Currently paused
+## Other ventures
 
-<a href="https://rupione.com"><img src="assets/rupione.svg" width="100%" alt="Rupione — currently paused. A lending platform for India: apply once, let lenders compete, and compare offers in one place." /></a>
+### [Rupione](https://rupione.com/)
 
-### 💸 Rupione
+**Credit access in India · Currently paused**
 
-A lending platform designed to simplify credit access in India: **apply once, let lenders compete, and compare offers in one place.**
+A lending platform designed around a single application, competing lender offers, and clear comparisons of rates, fees, and repayment terms. The concept includes consent-based document sharing for individuals and small businesses.
 
-The idea brings together a universal application, consent-based document sharing, and transparent comparisons of rates, fees, and repayment terms for individuals and small businesses.
+### [Yen Maga](https://yenmaga.com/)
 
-**[Explore Rupione ↗](https://rupione.com)**
+**Social events and ticketing · Currently paused**
 
-<a href="https://yenmaga.com/"><img src="assets/yen-maga.svg" width="100%" alt="Yen Maga — currently paused. A social events and ticketing platform I am co-founding with my sister Vatsala." /></a>
+Co-founding an events platform with my sister, **Vatsala**, to help people discover events worth attending. The work spans engineering, product design, and learning from early users.
 
-### 🎟️ Yen Maga
-
-Co-founding a social events and ticketing platform with my sister, **Vatsala**, to help people discover events worth showing up for. An opportunity to connect engineering, product design, and learning from early users.
-
-**[Explore Yen Maga ↗](https://yenmaga.com/)**
-
-## 🧩 Learning by building
-
-<a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="assets/keep-building.svg" width="100%" alt="Three Y Combinator rejections. Still curious. Still building. Explore my portfolio." /></a>
-
-My portfolio brings together my projects, experiments, and lessons from turning ideas into working software.
-
-**Three Y Combinator rejections. Still curious. Still building.**
-
-**[Explore my portfolio ↗](https://punithrajujanardhana.github.io/Portfolio/)**
-
-## 🧠 Currently going deeper into
-
-| Track | What I’m exploring |
-| :--- | :--- |
-| **01 / Applied AI** | LLM applications, RAG pipelines, and vector search |
-| **02 / Backend engineering** | API design, system architecture, and reliability |
-| **03 / CS fundamentals** | Data structures, algorithms, and LeetCode practice |
-| **04 / Product thinking** | Consumer behavior, business models, and finding problems worth solving |
-
-## 🛠️ My toolbox
-
-<img src="assets/operating-system.svg" width="100%" alt="Technical toolkit organized into building applications, applied AI, and cloud infrastructure." />
-
-<details>
-<summary><strong>Expand the full toolbox</strong></summary>
+## Technical toolkit
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | Java · Python · JavaScript · TypeScript |
-| Backend | Spring · FastAPI · Node.js |
+| Languages | Java, Python, JavaScript, TypeScript |
+| Backend | Spring, FastAPI, Node.js |
 | Frontend | React |
-| Databases | PostgreSQL · MongoDB |
-| Cloud & tooling | AWS · Docker · Kubernetes · Git |
+| Databases | PostgreSQL, MongoDB |
+| Infrastructure & tooling | AWS, Docker, Kubernetes, Git |
 
-</details>
+## Current interests
 
-## 💭 How I build
+- **Applied AI:** LLM applications, retrieval-augmented generation, and vector search.
+- **Backend engineering:** API design, system architecture, and reliability.
+- **Computer science:** Data structures, algorithms, and problem-solving practice.
+- **Product development:** Consumer behavior, business models, and identifying problems worth solving.
 
-**Understand the problem. Ship something useful. Learn from what happens.**
+## Approach
 
-I value clear code, thoughtful interfaces, and systems people can depend on. I like moving quickly, asking questions, and revisiting assumptions when real feedback tells a different story.
+I start with the problem, build something useful, and refine it through feedback. I value clear code, thoughtful interfaces, and systems people can depend on. I enjoy working across engineering and product, testing assumptions, and strengthening the fundamentals through hands-on work.
 
-Every project gives me a reason to strengthen the fundamentals and try something I haven’t done before.
+My [portfolio](https://punithrajujanardhana.github.io/Portfolio/) brings together projects, experiments, and lessons from building software end to end. Three Y Combinator rejections. Still curious. Still building.
 
-## Away from the keyboard
+## Beyond engineering
 
-<img src="assets/offline.svg" width="100%" alt="Offline. Still all in. Usually following a match, a race, or an idea for the next trip. Football: Messi. Cricket: Rohit Sharma. Formula 1: Lewis Hamilton. MotoGP: Valentino Rossi. Basketball: Devin Booker. Bengaluru will always be home. There’s plenty of the world left to see." />
+Bengaluru will always be home. Outside work, I enjoy travel and following football, cricket, Formula 1, MotoGP, and basketball. My favorites include Messi, Rohit Sharma, Lewis Hamilton, Valentino Rossi, and Devin Booker.
 
-## 🤝 Find me here
+## Get in touch
 
-Have an interesting problem, a product idea, or something you’re excited to build? **Let’s talk.**
+For engineering opportunities, product conversations, or collaborations, reach me at [punithjanardhana@gmail.com](mailto:punithjanardhana@gmail.com).
 
-<p align="center">
-  <a href="mailto:punithjanardhana@gmail.com"><img src="assets/end-transmission.svg" width="100%" alt="Understand. Ship. Learn. Seek discomfort. Stay curious. Keep building. Email Punith to talk about something worth building." /></a>
-</p>
-
-<p align="center">
-  <strong><a href="https://punithrajujanardhana.github.io/Portfolio/">PORTFOLIO</a> &nbsp; / &nbsp; <a href="http://alksea.com/">ALKSEA</a> &nbsp; / &nbsp; <a href="https://rupione.com/">RUPIONE</a> &nbsp; / &nbsp; <a href="https://yenmaga.com/">YEN MAGA</a> &nbsp; / &nbsp; <a href="mailto:punithjanardhana@gmail.com">EMAIL</a></strong>
-</p>
+[Portfolio](https://punithrajujanardhana.github.io/Portfolio/) · [Alksea](http://alksea.com/) · [Rupione](https://rupione.com/) · [Yen Maga](https://yenmaga.com/) · [Email](mailto:punithjanardhana@gmail.com)
