@@ -1,54 +1,111 @@
 <p align="center">
-  <img src="assets/mission-control.svg" width="100%" alt="Punith Raju Janardhana — engineer, builder, co-founder. Seattle based, Bengaluru built. Clean backends, useful AI, and things that ship." />
+  <img src="assets/mission-control.svg" width="100%" alt="Hey, I'm Punith Raju Janardhana — software engineer and product builder. Bengaluru roots. Seattle chapters. Building what's next." />
 </p>
 
 <p align="center">
-  <a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-B6FF59?style=for-the-badge&amp;logo=github&amp;logoColor=080C14" alt="Explore my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/"><img src="https://img.shields.io/badge/LINKEDIN-51E5FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=080C14" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:punithjanardhana@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-C6A4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=080C14" alt="Email Punith" /></a>
+  <a href="http://alksea.com/"><img src="https://img.shields.io/badge/CURRENT_FOCUS-ALKSEA-BAFF39?style=for-the-badge&amp;labelColor=151B2B&amp;logoColor=090B13" alt="Current focus: Alksea" /></a>
+  <a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-53E5FF?style=for-the-badge&amp;labelColor=151B2B" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-C9A6FF?style=for-the-badge&amp;labelColor=151B2B" alt="Connect on LinkedIn" /></a>
 </p>
 
-# Turning “what if” into shipped software.
+# Reliable systems. Useful products. Relentless curiosity.
 
-I'm **Punith**, a Bengaluru boy based in **Seattle**. I build clean backends, explore LLMs and retrieval, and enjoy making systems scale. Most of my energy right now goes into **[Yen Maga](https://yenmaga.com/)** — and the people who will use it.
+I’m a **software engineer and product builder** drawn to reliable backends, useful AI, and products that make someone’s day a little easier.
 
-<p>
-  <a href="https://yenmaga.com/"><img src="assets/yen-maga.svg" width="100%" alt="Yen Maga — a social events and ticketing platform I am co-founding with my sister Vatsala. Explore yenmaga.com." /></a>
-</p>
+My curiosity stretches beyond the code: **Who needs this? Why would they use it? What would make them come back?** I enjoy connecting those answers to the systems that bring a product to life.
 
-### The build behind the ticket
+## 🚀 What I’m building
 
-Shipping features. Talking to early users. Figuring out what makes an event platform **fun to use**, as well as functional. Building it end to end with my sister **Vatsala** is currently eating most of my free time — and I love every bit of it.
+<a href="http://alksea.com/"><img src="assets/alksea.svg" width="100%" alt="Alksea — current focus. Wallet compliance infrastructure centered on backend security, auditability, permissions, recovery workflows, and operational reliability." /></a>
 
-<p>
-  <img src="assets/operating-system.svg" width="100%" alt="My toolkit: Java, Python, JavaScript, TypeScript, Spring, FastAPI, Node.js and React. AI interests: LLMs, RAG pipelines and vector search. Infrastructure: AWS, Docker, Kubernetes, PostgreSQL, MongoDB and Git." />
-</p>
+### 🔐 Alksea · Current focus
+
+Building **wallet compliance infrastructure** with a focus on backend security, auditability, and operational reliability. Going deeper into the engineering behind dependable systems — from permissions and recovery workflows to handling failures.
+
+**[Explore Alksea ↗](http://alksea.com/)** &nbsp; · &nbsp; [Explore the code](https://github.com/PunithRajuJanardhana/Alksea)
+
+## 💡 Other ventures · Currently paused
+
+<a href="https://rupione.com"><img src="assets/rupione.svg" width="100%" alt="Rupione — currently paused. A lending platform for India: apply once, let lenders compete, and compare offers in one place." /></a>
+
+### 💸 Rupione
+
+A lending platform designed to simplify credit access in India: **apply once, let lenders compete, and compare offers in one place.**
+
+The idea brings together a universal application, consent-based document sharing, and transparent comparisons of rates, fees, and repayment terms for individuals and small businesses.
+
+**[Explore Rupione ↗](https://rupione.com)**
+
+<a href="https://yenmaga.com/"><img src="assets/yen-maga.svg" width="100%" alt="Yen Maga — currently paused. A social events and ticketing platform I am co-founding with my sister Vatsala." /></a>
+
+### 🎟️ Yen Maga
+
+Co-founding a social events and ticketing platform with my sister, **Vatsala**, to help people discover events worth showing up for. An opportunity to connect engineering, product design, and learning from early users.
+
+**[Explore Yen Maga ↗](https://yenmaga.com/)**
+
+## 🧩 Learning by building
+
+<a href="https://punithrajujanardhana.github.io/Portfolio/"><img src="assets/keep-building.svg" width="100%" alt="Three Y Combinator rejections. Still curious. Still building. Explore my portfolio." /></a>
+
+My portfolio brings together my projects, experiments, and lessons from turning ideas into working software.
+
+**Three Y Combinator rejections. Still curious. Still building.**
+
+**[Explore my portfolio ↗](https://punithrajujanardhana.github.io/Portfolio/)**
+
+## 🧠 Currently going deeper into
+
+| Track | What I’m exploring |
+| :--- | :--- |
+| **01 / Applied AI** | LLM applications, RAG pipelines, and vector search |
+| **02 / Backend engineering** | API design, system architecture, and reliability |
+| **03 / CS fundamentals** | Data structures, algorithms, and LeetCode practice |
+| **04 / Product thinking** | Consumer behavior, business models, and finding problems worth solving |
+
+## 🛠️ My toolbox
+
+<img src="assets/operating-system.svg" width="100%" alt="Technical toolkit organized into building applications, applied AI, and cloud infrastructure." />
 
 <details>
-<summary><strong>Open the toolbox / technologies in plain text</strong></summary>
+<summary><strong>Expand the full toolbox</strong></summary>
 
-| Build | Intelligence | Scale |
-| :--- | :--- | :--- |
-| Java · Python · JavaScript · TypeScript | LLMs | AWS · Docker · Kubernetes |
-| Spring · FastAPI · Node.js · React | RAG pipelines · Vector search | PostgreSQL · MongoDB · Git |
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Java · Python · JavaScript · TypeScript |
+| Backend | Spring · FastAPI · Node.js |
+| Frontend | React |
+| Databases | PostgreSQL · MongoDB |
+| Cloud & tooling | AWS · Docker · Kubernetes · Git |
 
 </details>
 
-## Side quests / away from the keyboard
+## 💭 How I build
 
-**The world is the next backlog.** Bengaluru roots, a growing travel list, and **2 / 196 countries** explored so far.
+**Understand the problem. Ship something useful. Learn from what happens.**
 
-| Football | Cricket | Formula 1 | MotoGP | Basketball |
+I value clear code, thoughtful interfaces, and systems people can depend on. I like moving quickly, asking questions, and revisiting assumptions when real feedback tells a different story.
+
+Every project gives me a reason to strengthen the fundamentals and try something I haven’t done before.
+
+## 🌍 Away from the keyboard
+
+Usually following a match, a race, or an idea for the next trip.
+
+| ⚽ Football | 🏏 Cricket | 🏎️ Formula 1 | 🏍️ MotoGP | 🏀 Basketball |
 | :---: | :---: | :---: | :---: | :---: |
-| Messi | Rohit Sharma | Lewis Hamilton | Valentino Rossi | Devin Booker |
+| **Messi** | **Rohit Sharma** | **Lewis Hamilton** | **Valentino Rossi** | **Devin Booker** |
+
+Bengaluru will always be home. There’s plenty of the world left to see.
+
+## 🤝 Find me here
+
+Have an interesting problem, a product idea, or something you’re excited to build? **Let’s talk.**
 
 <p align="center">
-  <a href="mailto:punithjanardhana@gmail.com"><img src="assets/end-transmission.svg" width="100%" alt="Building stuff. Breaking stuff. Learning either way. Let's build something worth shipping — email Punith." /></a>
+  <a href="mailto:punithjanardhana@gmail.com"><img src="assets/end-transmission.svg" width="100%" alt="Understand. Ship. Learn. Seek discomfort. Stay curious. Keep building. Email Punith to talk about something worth building." /></a>
 </p>
 
 <p align="center">
-  <a href="https://yenmaga.com/">Yen Maga</a> &nbsp; / &nbsp;
-  <a href="https://punithrajujanardhana.github.io/Portfolio/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/PunithRajuJanardhana">GitHub</a>
+  <strong><a href="https://punithrajujanardhana.github.io/Portfolio/">PORTFOLIO</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/punith-raju-janardhana-8a2a431aa/">LINKEDIN</a> &nbsp; / &nbsp; <a href="http://alksea.com/">ALKSEA</a> &nbsp; / &nbsp; <a href="https://yenmaga.com/">YEN MAGA</a> &nbsp; / &nbsp; <a href="mailto:punithjanardhana@gmail.com">EMAIL</a></strong>
 </p>
