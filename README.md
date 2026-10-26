@@ -87,15 +87,9 @@ I value clear code, thoughtful interfaces, and systems people can depend on. I l
 
 Every project gives me a reason to strengthen the fundamentals and try something I haven’t done before.
 
-## 🌍 Away from the keyboard
+## Away from the keyboard
 
-Usually following a match, a race, or an idea for the next trip.
-
-| ⚽ Football | 🏏 Cricket | 🏎️ Formula 1 | 🏍️ MotoGP | 🏀 Basketball |
-| :---: | :---: | :---: | :---: | :---: |
-| **Messi** | **Rohit Sharma** | **Lewis Hamilton** | **Valentino Rossi** | **Devin Booker** |
-
-Bengaluru will always be home. There’s plenty of the world left to see.
+<img src="assets/offline.svg" width="100%" alt="Offline. Still all in. Usually following a match, a race, or an idea for the next trip. Football: Messi. Cricket: Rohit Sharma. Formula 1: Lewis Hamilton. MotoGP: Valentino Rossi. Basketball: Devin Booker. Bengaluru will always be home. There’s plenty of the world left to see." />
 
 ## 🤝 Find me here
 

@@ -48,3 +48,23 @@ for x,n,label in [(40,'01','UNDERSTAND'),(389,'02','SHIP'),(738,'03','LEARN')]:
     b+=t(x,116,n,65,'#38435b','font-weight="900"')+t(x+92,109,label,25,'#baff39','font-weight="900"')
 b+=t(40,173,'Seek discomfort. Stay curious. Keep building.',27,'#f4f6ff','font-weight="700"')+t(40,213,'HAVE SOMETHING WORTH BUILDING? LET’S TALK. ↗',14,'#53e5ff','class="mono"')
 save('end-transmission',246,b)
+
+# An editorial sports lineup, with a travel route as its closing signature.
+b=t(40,44,'05 / AWAY FROM THE KEYBOARD',13,'#53e5ff','class="mono"')
+b+=t(34,117,'OFFLINE. STILL ALL IN.',59,'#f4f6ff','font-weight="900" letter-spacing="-2"')
+b+=t(40,156,'A match. A race. An idea for the next trip.',21,'#bdc7dc')
+lineup=[('01','FOOTBALL','Messi','#baff39'),('02','CRICKET','Rohit Sharma','#53e5ff'),('03','FORMULA 1','Lewis Hamilton','#c9a6ff'),('04','MOTOGP','Valentino Rossi','#ffab79'),('05','BASKETBALL','Devin Booker','#ff96b7')]
+for i,(number,sport,name,color) in enumerate(lineup):
+    y=188+i*65
+    b+=f'<rect x="40" y="{y}" width="1000" height="57" rx="7" fill="#121827"/>'
+    b+=f'<rect x="40" y="{y+10}" width="3" height="37" fill="{color}"/>'
+    b+=t(61,y+36,number,16,color,'class="mono"')+t(115,y+36,sport,15,'#c5cde0','class="mono"')
+    b+=t(365,y+39,name,31,color,'font-weight="800"')
+    # Finish-line strokes give the lineup a subtle motorsport rhythm.
+    b+=f'<path d="m961 {y+17}-12 23m30-23-12 23m30-23-12 23" stroke="{color}" stroke-width="3" opacity=".5"/>'
+b+='<path d="M40 544H1040" stroke="#343c51"/>'
+b+=t(40,583,'BENGALURU',21,'#baff39','font-weight="800"')
+b+='<circle cx="230" cy="575" r="4" fill="#baff39"/><path d="M242 575H580" stroke="#667591" stroke-dasharray="5 7"/><path d="m568 569 12 6-12 6" fill="none" stroke="#53e5ff" stroke-width="2"/>'
+b+=t(607,583,'WHEREVER CURIOSITY LEADS',20,'#53e5ff','font-weight="800"')
+b+=t(40,621,'Bengaluru will always be home. There’s plenty of the world left to see.',19,'#bdc7dc')
+save('offline',652,b)
