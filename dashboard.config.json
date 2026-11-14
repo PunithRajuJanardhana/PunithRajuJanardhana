@@ -1,0 +1,29 @@
+{
+  "username": "PunithRajuJanardhana",
+  "headline": "Software engineer. Systems thinker. Product builder.",
+  "focus": "Backend systems / Applied AI / Infrastructure",
+  "include_forks": false,
+  "include_archived": false,
+  "featured": [
+    {
+      "repo": "rasqal-proto",
+      "description": "Content-to-question pipeline with FastAPI and optional LLM support."
+    },
+    {
+      "repo": "RupivaNetwork",
+      "description": "Full-stack TypeScript application built with React and Express."
+    },
+    {
+      "repo": "ChatBot",
+      "description": "A Python chatbot implementation."
+    },
+    {
+      "repo": "Log-report-",
+      "description": "Apache access-log parsing with a structured JSON summary."
+    }
+  ],
+  "links": {
+    "Portfolio": "https://punithrajujanardhana.github.io/Portfolio/",
+    "Email": "mailto:punithjanardhana@gmail.com"
+  }
+}
