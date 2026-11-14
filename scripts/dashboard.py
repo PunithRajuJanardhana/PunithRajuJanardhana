@@ -345,9 +345,9 @@ def render_overview(d, c, w):
     y = s.wrapped(24, y+12, c['headline'], 36 if mobile else 76, 15, TEXT)
     y = s.wrapped(24, y+8, c['focus'], 37 if mobile else 80, 13, VIOLET)
     y += 10
-    metrics = [('TOTAL REPOS', '?'), ('PUBLIC REPOS', d['public_repos']), ('PRIVATE REPOS', '?'),
+    metrics = [('PUBLIC REPOS', d['public_repos']),
                ('DAYS ON GITHUB', f'{d["days_on_github"]:,}'), ('TOTAL STARS', d['total_stars'])]
-    cols = 2 if mobile else 5
+    cols = 2 if mobile else 3
     cw = (w - 48 - (cols-1)*10)/cols
     for i, (label, value) in enumerate(metrics):
         x, cy = 24 + (i%cols)*(cw+10), y + (i//cols)*106
@@ -355,7 +355,7 @@ def render_overview(d, c, w):
         s.text(x+12, cy+25, label, 11, MUTED)
         s.text(x+12, cy+67, value, 34, VIOLET if value == '?' else CYAN, 600)
     y += math.ceil(len(metrics)/cols)*106
-    y = s.wrapped(24, y+13, f'Joined {d["created_at"][:10]} · private and total counts masked', 42 if mobile else 90, 12)
+    y = s.wrapped(24, y+13, f'Joined {d["created_at"][:10]}', 42 if mobile else 90, 12)
     y = s.wrapped(24, y+8, 'Last synced · '+d['synced_at'], 45 if mobile else 90, 12, CYAN)
     return s, y+18
 
@@ -432,42 +432,63 @@ def render_activity(d, c, w):
 
 
 def render_languages(d,c,w):
-    s = SVG(w,'Language usage across included owned public repositories')
-    s.header('02','Language telemetry','Aggregated bytes · owned public repositories')
-    y, total = 95, sum(d['languages'].values())
-    for i,(name,value) in enumerate(d['languages'].items()):
-        color = [CYAN,VIOLET,'#68b7ff','#f1b771','#79ddaf'][i%5]
-        s.text(24,y,name,15,TEXT,600)
+    s = SVG(w,'Language breakdown by public repository bytes; smaller languages grouped as Other')
+    s.header('02','Languages','Share of code bytes · owned public repos')
+    total = sum(d['languages'].values())
+    ranked = sorted(d['languages'].items(), key=lambda item: -item[1])
+    visible = [(name,value) for name,value in ranked if total and value/total >= 0.01][:5]
+    other = total - sum(value for _,value in visible)
+    if other:
+        visible.append(('Other',other))
+    y = 91
+    for i,(name,value) in enumerate(visible):
+        color = [CYAN,VIOLET,'#68b7ff','#79ddaf','#f1b771',MUTED][i%6]
+        s.text(24,y,name,14,TEXT,600)
         percent = '<0.1' if value/total*100 < 0.1 else f'{value/total*100:.1f}'
-        s.text(w-24,y,f'{percent}% · {value:,} B',12,MUTED,extra='text-anchor="end"')
-        s.rect(24,y+14,w-48,7,'#172437','none',3)
-        s.rect(24,y+14,max(1,(w-48)*value/total),7,color,'none',3)
-        y += 57
+        s.text(w-24,y,percent+'%',13,color,extra='text-anchor="end"')
+        s.rect(24,y+11,w-48,5,'#172437','none',2)
+        s.rect(24,y+11,max(1,(w-48)*value/total),5,color,'none',2)
+        y += 39
     if not total:
-        y=s.wrapped(24,y,'No language bytes reported by GitHub.',40,14)
-    y=s.wrapped(24,y+2,f'{len(d["included_repos"])} repos included · forks {"on" if c["include_forks"] else "off"} · archived {"on" if c["include_archived"] else "off"}',43 if w<600 else 90,12)
-    return s,y+16
+        y=s.wrapped(24,y,'No language bytes reported by GitHub.',40,13)
+    hidden = len(ranked) - len(visible) + (1 if other else 0)
+    note = f'{len(d["included_repos"])} public repos'
+    if other:
+        note += f' · Other includes {hidden} languages'
+    y=s.wrapped(24,y+1,note,43 if w<600 else 90,11)
+    return s,y+12
 
 
 def render_technologies(d,c,w):
-    s=SVG(w,'Frameworks, databases and infrastructure with public evidence')
-    s.header('03','Technology signals','Public file and topic evidence · repository counts')
-    y=96
-    for cat in ('Frameworks','Databases','Infrastructure'):
-        s.text(24,y,cat.upper(),13,VIOLET,600)
-        y+=30
-        techs=sorted([x for x in d['technologies'] if x['category']==cat],key=lambda x:(-x['count'],x['name']))
+    s=SVG(w,'Frameworks, databases and infrastructure; each badge shows the repository count')
+    s.header('03','Technologies','Evidence-based stack · numbers show repo counts')
+    mobile=w<600
+    cats=('Frameworks','Databases','Infrastructure')
+    gap=16
+    panel_width=w-48 if mobile else (w-48-2*gap)/3
+    y=87
+    bottom=y
+    for i,cat in enumerate(cats):
+        x=24 if mobile else 24+i*(panel_width+gap)
+        top=y if mobile else 87
+        s.text(x,top,cat.upper(),12,VIOLET,600)
+        cx,cy=x,top+16
+        techs=sorted([t for t in d['technologies'] if t['category']==cat],key=lambda t:(-t['count'],t['name']))
         for tech in techs:
-            s.text(24,y,tech['name'],15,TEXT)
-            s.text(w-24,y,f'{tech["count"]} repo'+('s' if tech['count']!=1 else ''),13,CYAN,extra='text-anchor="end"')
-            y+=30
+            label=f'{tech["name"]}  {tech["count"]}'
+            chip_width=min(panel_width,len(label)*7.5+22)
+            if cx>x and cx+chip_width>x+panel_width:
+                cx=x
+                cy+=38
+            s.rect(cx,cy,chip_width,29,'#111d2d','#2b3d55',7)
+            s.text(cx+11,cy+19,label,12,TEXT)
+            cx+=chip_width+8
         if not techs:
-            s.text(24,y,'No public evidence detected',13,MUTED)
-            y+=30
-        s.line(24,y-10,w-24,y-10)
-        y+=24
-    y=s.wrapped(24,y,'Evidence and included repositories: assets/dashboard.json',43 if w<600 else 90,12)
-    return s,y+12
+            s.text(x,cy+19,'No evidence detected',12,MUTED)
+        bottom=max(bottom,cy+29)
+        if mobile:
+            y=cy+62
+    return s,bottom+24
 
 
 def render_projects(d,c,w):
@@ -531,7 +552,7 @@ def readme(d,c):
            f'Language and technology totals include **{len(d["included_repos"])} owned public repositories**. Forks: **{c["include_forks"]}**. Archived: **{c["include_archived"]}**. These filters do not change the public overview counts.\n',
            ', '.join(f'[{md(r["name"])}]({r["url"]})' for r in d['included_repos'])+'.\n',
            'Languages use GitHub language bytes, not skill ratings. Technology detection checks dependency manifests, topics and configuration paths; it is evidence of repository usage, not production deployment. Full file-level evidence and every daily count: [public data snapshot](assets/dashboard.json).\n',
-           'Contributions come from the **public GitHub contribution calendar**, which may include anonymous private contribution counts if enabled on the profile. No private repository metadata is fetched or published. Total and private repo counts stay masked to prevent subtraction. Stars cover all owned public repos. Dates are UTC; GitHub can delay contribution attribution.\n',
+           'Contributions come from the **public GitHub contribution calendar**, which may include anonymous private contribution counts if enabled on the profile. No private repository metadata is fetched or published. Total and private repository counts are not displayed. Stars cover all owned public repos. Dates are UTC; GitHub can delay contribution attribution.\n',
            '</details>\n']
     return '\n'.join(lines)
 

@@ -39,6 +39,6 @@ Language and technology totals include **13 owned public repositories**. Forks: 
 
 Languages use GitHub language bytes, not skill ratings. Technology detection checks dependency manifests, topics and configuration paths; it is evidence of repository usage, not production deployment. Full file-level evidence and every daily count: [public data snapshot](assets/dashboard.json).
 
-Contributions come from the **public GitHub contribution calendar**, which may include anonymous private contribution counts if enabled on the profile. No private repository metadata is fetched or published. Total and private repo counts stay masked to prevent subtraction. Stars cover all owned public repos. Dates are UTC; GitHub can delay contribution attribution.
+Contributions come from the **public GitHub contribution calendar**, which may include anonymous private contribution counts if enabled on the profile. No private repository metadata is fetched or published. Total and private repository counts are not displayed. Stars cover all owned public repos. Dates are UTC; GitHub can delay contribution attribution.
 
 </details>

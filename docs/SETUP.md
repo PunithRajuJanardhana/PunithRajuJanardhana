@@ -47,7 +47,7 @@ This preserves the snapshot's original timestamp. It does not simulate new data 
 | Metric | Definition |
 | --- | --- |
 | Public repositories | All owned public repositories, including forks and archived repositories; fully paginated |
-| Total / private repositories | Always `?`. An exact total could reveal the private count by subtracting the public count |
+| Total / private repositories | Not displayed. The internal snapshot retains only `?` placeholders; exact counts are never fetched or published |
 | Days on GitHub | Difference between the current UTC date and the account creation date; join date shown separately |
 | Total stars | Sum of stars across all owned public repositories |
 | Contribution year | Exactly 365 UTC dates ending today, taken from the public GitHub contribution calendar |
