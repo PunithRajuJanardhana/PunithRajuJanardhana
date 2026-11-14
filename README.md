@@ -7,7 +7,7 @@
 
 [Portfolio](https://punithrajujanardhana.github.io/Portfolio/) · [Email](mailto:punithjanardhana@gmail.com)
 
-[Explore selected work](#selected-work) · [Data & setup](docs/SETUP.md)
+[Data & setup](docs/SETUP.md)
 
 ## Daily activity
 
@@ -33,7 +33,7 @@
 <details>
 <summary>Repository scope and data sources</summary>
 
-Language and technology totals include **13 owned public repositories**. Forks: **False**. Archived: **False**. These filters do not change the public overview counts or featured selection.
+Language and technology totals include **13 owned public repositories**. Forks: **False**. Archived: **False**. These filters do not change the public overview counts.
 
 [ChatBot](https://github.com/PunithRajuJanardhana/ChatBot), [Cryptocurrency-Data-Analysis](https://github.com/PunithRajuJanardhana/Cryptocurrency-Data-Analysis), [CSE360Project](https://github.com/PunithRajuJanardhana/CSE360Project), [data](https://github.com/PunithRajuJanardhana/data), [FacebookPagePipeline](https://github.com/PunithRajuJanardhana/FacebookPagePipeline), [fast-api-](https://github.com/PunithRajuJanardhana/fast-api-), [game](https://github.com/PunithRajuJanardhana/game), [Log-report-](https://github.com/PunithRajuJanardhana/Log-report-), [log-report-harbor-fix](https://github.com/PunithRajuJanardhana/log-report-harbor-fix), [PunithRajuJanardhana](https://github.com/PunithRajuJanardhana/PunithRajuJanardhana), [rasqal-proto](https://github.com/PunithRajuJanardhana/rasqal-proto), [RupivaNetwork](https://github.com/PunithRajuJanardhana/RupivaNetwork), [valo](https://github.com/PunithRajuJanardhana/valo).
 
@@ -42,10 +42,3 @@ Languages use GitHub language bytes, not skill ratings. Technology detection che
 Contributions come from the **public GitHub contribution calendar**, which may include anonymous private contribution counts if enabled on the profile. No private repository metadata is fetched or published. Total and private repo counts stay masked to prevent subtraction. Stars cover all owned public repos. Dates are UTC; GitHub can delay contribution attribution.
 
 </details>
-
-## Selected work
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/projects-mobile.svg">
-  <img src="assets/projects.svg" alt="Up to four manually selected projects" width="840">
-</picture>
