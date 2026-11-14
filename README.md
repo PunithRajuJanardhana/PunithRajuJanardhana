@@ -7,7 +7,7 @@
 
 [Portfolio](https://punithrajujanardhana.github.io/Portfolio/) · [Email](mailto:punithjanardhana@gmail.com)
 
-[Explore selected work](#selected-work) · [Public activity](#public-activity) · [Data & setup](docs/SETUP.md)
+[Explore selected work](#selected-work) · [Data & setup](docs/SETUP.md)
 
 ## Daily activity
 
@@ -49,38 +49,3 @@ Contributions come from the **public GitHub contribution calendar**, which may i
   <source media="(max-width: 600px)" srcset="assets/projects-mobile.svg">
   <img src="assets/projects.svg" alt="Up to four manually selected projects" width="840">
 </picture>
-
-### [rasqal-proto](https://github.com/PunithRajuJanardhana/rasqal-proto)
-Content-to-question pipeline with FastAPI and optional LLM support.
-
-**Python / FastAPI** · 0 stars · [Repository](https://github.com/PunithRajuJanardhana/rasqal-proto)
-
-### [RupivaNetwork](https://github.com/PunithRajuJanardhana/RupivaNetwork)
-Full-stack TypeScript application built with React and Express.
-
-**TypeScript / Express / React** · 0 stars · [Repository](https://github.com/PunithRajuJanardhana/RupivaNetwork)
-
-### [ChatBot](https://github.com/PunithRajuJanardhana/ChatBot)
-A Python chatbot implementation.
-
-**Python** · 0 stars · [Repository](https://github.com/PunithRajuJanardhana/ChatBot)
-
-### [Log-report-](https://github.com/PunithRajuJanardhana/Log-report-)
-Apache access-log parsing with a structured JSON summary.
-
-**Python** · 0 stars · [Repository](https://github.com/PunithRajuJanardhana/Log-report-)
-
-## Public activity
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/recent-mobile.svg">
-  <img src="assets/recent.svg" alt="Latest five public updates with UTC sync time" width="840">
-</picture>
-
-- **2026-11-10** — [PR merged · NexKey-Collective/nex-key- #4](https://github.com/NexKey-Collective/nex-key-/pull/4)
-- **2026-11-10** — [PR opened · NexKey-Collective/nex-key- #4](https://github.com/NexKey-Collective/nex-key-/pull/4)
-- **2026-11-10** — [PR merged · NexKey-Collective/nex-key- #3](https://github.com/NexKey-Collective/nex-key-/pull/3)
-- **2026-11-10** — [PR opened · NexKey-Collective/nex-key- #3](https://github.com/NexKey-Collective/nex-key-/pull/3)
-- **2026-07-10** — [Repository update · Log-report-](https://github.com/PunithRajuJanardhana/Log-report-)
-
-Last successful sync: **2026-11-14 07:07:18 UTC** · [Refresh workflow](https://github.com/PunithRajuJanardhana/PunithRajuJanardhana/actions/workflows/dashboard.yml) · [Setup & configuration](docs/SETUP.md)
